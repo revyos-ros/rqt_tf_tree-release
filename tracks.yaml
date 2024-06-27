@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/rqt_tf_tree-release
 tracks:
   dashing:
     actions:
