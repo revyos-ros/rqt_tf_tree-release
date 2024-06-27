@@ -1,3 +1,26 @@
+## rqt_tf_tree (jazzy) - 1.0.5-2
+
+The packages in the `rqt_tf_tree` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rqt_tf_tree --override-release-repository-push-url git@github.com:revyos-ros/rqt_tf_tree-release` on `Thu, 27 Jun 2024 05:23:57 -0000`
+
+The `rqt_tf_tree` package was released.
+
+Version of package(s) in repository `rqt_tf_tree`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_tf_tree.git
+- release repository: https://github.com/revyos-ros/rqt_tf_tree-release.git
+- rosdistro version: `1.0.4-4`
+- old version: `1.0.5-1`
+- new version: `1.0.5-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_tf_tree (rolling) - 1.0.5-1
 
 The packages in the `rqt_tf_tree` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling rqt_tf_tree --edit` on `Fri, 14 Jun 2024 02:59:35 -0000`
